@@ -1,0 +1,6148 @@
+[
+    {
+        "count_title": "8",
+        "descr": "SUPERVISOR OF NURSES",
+        "title": "50960",
+        "status": "404"
+    },
+    {
+        "count_title": "8",
+        "descr": "SENIOR STATIONARY ENGINEER (EL",
+        "title": "91639",
+        "status": "200",
+        "promotionLine": "From:Stationary Engineer  (Electric)To:None (91645)"
+    },
+    {
+        "count_title": "8",
+        "descr": "CLERICAL ASSOCIATE",
+        "title": "10251",
+        "status": "200",
+        "promotionLine": "  From:  Clerical Aide (10250) To: Principal Administrative  # Office Machine Aide (11702)     Associate (10124)  # Dental Assistant (50101)  ## Computer Associate  # Public Health Assistant (81805)     (Technical Support)  # Public Health Assistant      (13611)     (School Health) (81815)  # Public Records Aide (60215)  # Permanent employees in the title of Dental Assistant, Office Machine Aide, Public Health Assistant, Public Health Assistant (School Health), and Public Records Aide shall be afforded the opportunity to be promoted to Clerical Associate, Assignment Levels III and IV only, provided that they meet the minimum requirements.  ## Permanent employees in the title of Clerical Associate shall be afforded the opportunity to be promoted to Computer Associate (Technical Support) provided that they meet the minimum requirements for that title.   "
+    },
+    {
+        "count_title": "7",
+        "descr": "SECRETARY",
+        "title": "10252",
+        "status": "404"
+    },
+    {
+        "count_title": "6",
+        "descr": "REPORTER/STENOGRAPHER",
+        "title": "10212",
+        "status": "200",
+        "promotionLine": "From:NoneTo:None"
+    },
+    {
+        "count_title": "6",
+        "descr": "SUPERVISING SPECIAL OFFICER",
+        "title": "70817",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "6",
+        "descr": "ATTENDING PHYSICIAN",
+        "title": "97022",
+        "status": "404"
+    },
+    {
+        "count_title": "6",
+        "descr": "SENIOR STATIONARY ENGINEER",
+        "title": "91638",
+        "status": "200",
+        "promotionLine": "From:Stationary Engineer  (91644)To:None"
+    },
+    {
+        "count_title": "6",
+        "descr": "BUSINESS PROMOTION COORDINATOR",
+        "title": "60860",
+        "status": "404"
+    },
+    {
+        "count_title": "6",
+        "descr": "STAFF NURSE",
+        "title": "50910",
+        "status": "404"
+    },
+    {
+        "count_title": "6",
+        "descr": "* ATTENDING DENTIST (HMH) FULL",
+        "title": "97020",
+        "status": "404"
+    },
+    {
+        "count_title": "6",
+        "descr": "PROGRAM PRODUCER",
+        "title": "60621",
+        "status": "200",
+        "promotionLine": "  From: None                                                                           To: To be determined     "
+    },
+    {
+        "count_title": "6",
+        "descr": "CITY MEDICAL SPECIALIST (PART-",
+        "title": "53040",
+        "status": "404"
+    },
+    {
+        "count_title": "6",
+        "descr": "PHYSICIANS ASSISTANT",
+        "title": "52700",
+        "status": "404"
+    },
+    {
+        "count_title": "6",
+        "descr": "SUPERVISOR OF STOCK WORKERS",
+        "title": "12202",
+        "status": "200",
+        "promotionLine": "From:Stock Worker  (12200)To:Administrative Storekeeper  (M 10038)"
+    },
+    {
+        "count_title": "6",
+        "descr": "PROCUREMENT ANALYST",
+        "title": "12158",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Administrative Procurement Analyst  (M 82976)"
+    },
+    {
+        "count_title": "5",
+        "descr": "HEAD NURSE",
+        "title": "50935",
+        "status": "404"
+    },
+    {
+        "count_title": "5",
+        "descr": "CITY ASSESSOR (I,II,IIIA,IIIB)",
+        "title": "40202",
+        "status": "404"
+    },
+    {
+        "count_title": "5",
+        "descr": "SIGN LANGUAGE INTERPRETER (DOE",
+        "title": "31046",
+        "status": "404"
+    },
+    {
+        "count_title": "5",
+        "descr": "SIGN LANGUAGE INTERPRETER (DOE",
+        "title": "3104A",
+        "status": "404"
+    },
+    {
+        "count_title": "5",
+        "descr": "CITY RESEARCH SCIENTIST",
+        "title": "21744",
+        "status": "404"
+    },
+    {
+        "count_title": "5",
+        "descr": "ASSOCIATE CHEMIST",
+        "title": "21822",
+        "status": "404"
+    },
+    {
+        "count_title": "5",
+        "descr": "GRAPHIC ARTIST",
+        "title": "91415",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Administrative Graphic Artist  (10003)"
+    },
+    {
+        "count_title": "5",
+        "descr": "EXTERMINATOR",
+        "title": "90510",
+        "status": "200",
+        "promotionLine": "  From:     None       To:     None    "
+    },
+    {
+        "count_title": "4",
+        "descr": "POISON INFORMATION SPECIALIST(",
+        "title": "06663",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "ASSOCIATE FINGERPRINT TECHNICI",
+        "title": "71141",
+        "status": "200",
+        "promotionLine": "From:Fingerprint TechnicianTo:Principal Fingerprint Trainee  (71105) Technician  (71165)"
+    },
+    {
+        "count_title": "4",
+        "descr": "ASSOCIATE INSPECTOR (BOILERS)",
+        "title": "31640",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "*ATTORNEY AT LAW",
+        "title": "30085",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "ENGINEERING TECHNICIAN",
+        "title": "20113",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CRIMINALIST",
+        "title": "21849",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "*CERTIFIED DATABASE ADMINISTRA",
+        "title": "13694",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "LIFE GUARD",
+        "title": "71205",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CITY TAX AUDITOR",
+        "title": "40523",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CUSTODIAN",
+        "title": "80609",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "INSPECTOR (PLUMBING)",
+        "title": "31629",
+        "status": "200",
+        "promotionLine": "   From:  None    To:  Administrative Inspector (Buildings) (10073) "
+    },
+    {
+        "count_title": "4",
+        "descr": "DEPUTY ASSISTANT COUNSEL (OLR)",
+        "title": "06361",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "ASSOCIATE INSPECTOR (ELECTRICA",
+        "title": "31643",
+        "status": "200",
+        "promotionLine": "  From: Inspector (Electrical) (31623)      To: Administrative Inspector                  (Electrical) (10077) "
+    },
+    {
+        "count_title": "4",
+        "descr": "AGENCY ATTORNEY",
+        "title": "30087",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CHIEF LIFEGUARD",
+        "title": "71210",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CITY MEDICAL SPECIALIST",
+        "title": "53039",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "TELECOMMUNICATIONS ASSOCIATE (",
+        "title": "20246",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "4",
+        "descr": "CERTIFIED IT ADMINISTRATOR (LA",
+        "title": "13652",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "4",
+        "descr": "INSPECTOR (CONSTRUCTION)",
+        "title": "31622",
+        "status": "200",
+        "promotionLine": "  From:  None                                  To:  Administrative Inspector (Buildings) (10073) "
+    },
+    {
+        "count_title": "4",
+        "descr": "COMMUNITY ASSISTANT",
+        "title": "56056",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CITY PLANNER",
+        "title": "22122",
+        "status": "200",
+        "promotionLine": "From:City Planning TechnicianTo:Administrative City (22121) Planner  (M 10053) (Only for those who have    a baccalaureate degree from   an accredited college.)"
+    },
+    {
+        "count_title": "4",
+        "descr": "PUBLIC HEALTH SANITARIAN",
+        "title": "31215",
+        "status": "200",
+        "promotionLine": "  From: None To: # Associate Public Health   Sanitarian (31220)      # To be eligible for appointment to the title of Associate Public Health Sanitarian, candidates must have at least two years of experience as a public health sanitarian, as required by the Compilation of the Rules and Regulations of the State of New York (NYCRR)  Title 10 (Health) (Section 11.112).  Special Note  At the end of one year of satisfactory service in Assignment Level I, and completion of any training required under the Compilation of the Rules and Regulations of the State of New York (NYCRR)  Title 10 (Health), incumbents will be assigned to Assignment Level II subject to a one year probationary period. "
+    },
+    {
+        "count_title": "4",
+        "descr": "DEPARTMENT LIBRARIAN",
+        "title": "60210",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "COMPUTER SPECIALIST (SOFTWARE",
+        "title": "94526",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "*AGENCY ATTORNEY",
+        "title": "3008G",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CERT IT DEVELOPER (APP)",
+        "title": "13643",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "4",
+        "descr": "WORKER'S COMPENSATION BENEFITS",
+        "title": "40482",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CITY SERVICE AIDE",
+        "title": "91405",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "TELECOMMUNICATIONS ASSOCIATE (",
+        "title": "20247",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "*PERSONNEL DIRECTOR -HEALTH CA",
+        "title": "95954",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "*CERTIFIED APPLICATIONSDEVELOP",
+        "title": "13693",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "SUPERVISOR OF MECHANICAL INSTA",
+        "title": "34221",
+        "status": "200",
+        "promotionLine": "From:NoneTo:To be determined"
+    },
+    {
+        "count_title": "4",
+        "descr": "*CERTIFIED LOCAL AREA NETWORKA",
+        "title": "13691",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "STOCK WORKER",
+        "title": "12200",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "4",
+        "descr": "SURVEYOR",
+        "title": "21015",
+        "status": "200",
+        "promotionLine": "From:NoneTo:None"
+    },
+    {
+        "count_title": "4",
+        "descr": "COMPUTER SPECIALIST (SOFTWARE)",
+        "title": "13632",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "4",
+        "descr": "STENOGRAPHIC SPECIALIST",
+        "title": "10217",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "*CERTIFIED WIDE AREA NETWORKAD",
+        "title": "13692",
+        "status": "404"
+    },
+    {
+        "count_title": "4",
+        "descr": "CERT IT ADMINISTRATOR (DB)",
+        "title": "13644",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "4",
+        "descr": "BRIDGE OPERATOR",
+        "title": "91110",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "MATE (DEP)",
+        "title": "91580",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "*PERSONNEL PROGRAM DEVELOPMENT",
+        "title": "95955",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "TRAFFIC CONTROL INSPECTOR",
+        "title": "31715",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "INSPECTOR (ELEVATORS)",
+        "title": "31624",
+        "status": "200",
+        "promotionLine": "  From:  None               To:  Administrative Inspector (Buildings)              (M 10073) "
+    },
+    {
+        "count_title": "3",
+        "descr": "COMPUTER ASSOC (TECH SUPP)",
+        "title": "13611",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "QUALITY ASSURANCE SPECIALIST (",
+        "title": "34176",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE WATER USE INSPECTOR",
+        "title": "34620",
+        "status": "200",
+        "promotionLine": "From:Water Use InspectorTo:Chief Water Use (346l5) Inspector  (34665)"
+    },
+    {
+        "count_title": "3",
+        "descr": "INSTRUMENTATION SPECIALIST",
+        "title": "91001",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CONSTRUCTION PROJECT MANAGER",
+        "title": "34202",
+        "status": "200",
+        "promotionLine": "From:Construction ProjectTo:Administrative Construction Manager Intern  (34201) Project Manager  (M 82991)"
+    },
+    {
+        "count_title": "3",
+        "descr": "PEER COUNSELOR (HMH)",
+        "title": "51218",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "LANDSCAPE ARCHITECT",
+        "title": "21315",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "PHYSICIST",
+        "title": "22015",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "*ASSISTANT ADVOCATE-PD",
+        "title": "3008A",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "PLASTERER",
+        "title": "92235",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ADM MANAGER-NON-MGRL FRM M1/M2",
+        "title": "1002C",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ECONOMIST",
+        "title": "40910",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "PUBLIC HEALTH EDUCATOR",
+        "title": "51110",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSISTANT ADVOCATE-PD",
+        "title": "30083",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CHEMICAL ENGINEER",
+        "title": "20515",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ENVIRONMENTAL ENGINEER",
+        "title": "20618",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "MEDIA SERVICES TECHNICIAN",
+        "title": "90622",
+        "status": "200",
+        "promotionLine": "  From:  Assistant Media Services Technician   To: None  (90621) "
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE URBAN DESIGNER",
+        "title": "22124",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "SCIENTIST (RADIATION CONTROL)",
+        "title": "21516",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE DISCIPL",
+        "title": "06688",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "SYSTEMS ADMINISTRATOR-CAM FIN",
+        "title": "06602",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "MEDICAL RECORD LIBRARIAN",
+        "title": "50811",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "RADIO AND TELEVISION OPERATOR",
+        "title": "90411",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INSPECTOR (HOISTS AND RIGGING)",
+        "title": "31627",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "PRINCIPAL ADMINISTRATIVE ASSOC",
+        "title": "10124",
+        "status": "200",
+        "promotionLine": "  From:   Bookkeeper (40526)      To:  Administrative Cashier (10605)          Manager (M10025) Clerical Associate (10251) Correction Administrative Aide (70400) Eligibility Specialist (10104) Paralegal Aide (30080) Public Relations Assistant (60810) Research Assistant (60910) Research Assistant (Behavioral Sciences) (21740) Secretary (10252) Senior Police Administrative Aide (10147) Stenographic Specialist (10217) Supervisor of Office Machine Operations (11704) Legal Secretarial Assistant (10229)  "
+    },
+    {
+        "count_title": "3",
+        "descr": "STATISTICIAN",
+        "title": "40610",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "LEGAL SECRETARIAL ASST- L2,3,4",
+        "title": "1022A",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CUSTOMER INFORMATION REP",
+        "title": "60888",
+        "status": "200",
+        "promotionLine": "  From: None To: To Be Determined "
+    },
+    {
+        "count_title": "3",
+        "descr": "SUBSTANCE ABUSE PREVENTION & I",
+        "title": "56073",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE DISCIPL",
+        "title": "31163",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (DISCIPLINE) HMH",
+        "title": "95599",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "FORENSIC MORTUARY TECHNICIAN",
+        "title": "52040",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "PROGRAM SPECIALIST  CORRECTION",
+        "title": "60948",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE DISCIPL",
+        "title": "31167",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "COUNSELOR (ADDICTION TREATMENT",
+        "title": "51214",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "AUTOMOTIVE SERVICE WORKER",
+        "title": "92508",
+        "status": "200",
+        "promotionLine": "  From: None. To:   Auto Mechanic (92510) Auto Mechanic (Diesel) (92511) "
+    },
+    {
+        "count_title": "3",
+        "descr": "MARKET AGENT",
+        "title": "33972",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CONFIDENTIAL INVESTIGATOR",
+        "title": "31143",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CRIME ANALYST",
+        "title": "31175",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "TAX MAP CARTOGRAPHER",
+        "title": "21006",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR(DISCP)(ONLY FOR P",
+        "title": "06316",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "APPRAISER (REAL ESTATE)",
+        "title": "40410",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE TRAFFIC ENFORCEMENT",
+        "title": "71652",
+        "status": "200",
+        "promotionLine": "  From:  Traffic Enforcement Agent (71651)    To:  Administrative Traffic            Enforcement Agent (10042) "
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE DISCIPL",
+        "title": "31173",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (DISCIPLINE) (DOC",
+        "title": "31164",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "TESTS AND MEASUREMENT SPECIAL",
+        "title": "12704",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "SUPERVISOR (WATERSHED MAINTENA",
+        "title": "91314",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTMENT ANALYST",
+        "title": "40925",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "COMPUTER ASSOC (SOFTWARE)",
+        "title": "13631",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE PROJECT MANAGER",
+        "title": "22427",
+        "status": "200",
+        "promotionLine": "  From: Project Manager (22426) To: Administrative Project Manager (M 83008) "
+    },
+    {
+        "count_title": "3",
+        "descr": "PRINCIPAL POLICE COMMUNICATION",
+        "title": "71014",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "GEOLOGIST",
+        "title": "21915",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE FIRE PROTECTION INSP",
+        "title": "31662",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "SUPERVISOR (PEST CONTROL)",
+        "title": "90505",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "REAL PROPERTY MANAGER",
+        "title": "80112",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "MEDICOLEGAL INVESTIGATOR (OCME",
+        "title": "53299",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "DIETITIAN",
+        "title": "50310",
+        "status": "200",
+        "promotionLine": "From:#  Dietetic Technician  (50311)To:To be determined#  To be eligible for promotion to the title of Dietitian, candidates must meet    additional qualification requirements."
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE JOB OPPORTUNITY SPEC",
+        "title": "52316",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "X-RAY TECHNICIAN",
+        "title": "51310",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ELIGIBILITY SPECIALIST",
+        "title": "10104",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "Associate Air Pollution Inspr",
+        "title": "31316",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ELECTRICIAN",
+        "title": "91717",
+        "status": "200",
+        "promotionLine": "   From: Electrician's Helper To: Supervisor Electrician  (91722)  (91769)  "
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE RETIREMENT BENEFITS",
+        "title": "40493",
+        "status": "200",
+        "promotionLine": "From:Assistant Retirement BenefitsTo:Administrative Retirement Examiner  (40491) Benefits  Specialist  (M 82986)"
+    },
+    {
+        "count_title": "3",
+        "descr": "CLAIM SPECIALIST",
+        "title": "30726",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE DISCIPL",
+        "title": "31169",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "MULTIPLE DWELLING SPECIALIST (",
+        "title": "22401",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INSPECTOR (MULTI-DISCIPLINE)",
+        "title": "31656",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "PUBLIC HEALTH NURSE (SCHOOL HE",
+        "title": "51022",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Administrative Public Health Nurse  (10032)"
+    },
+    {
+        "count_title": "3",
+        "descr": "INSPECTOR (BOILERS)",
+        "title": "31620",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CEMENT MASON",
+        "title": "92210",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "SUPERVISOR OF MECHANICS(MECHAN",
+        "title": "92575",
+        "status": "200",
+        "promotionLine": "From:Auto Machinist  (92505)To:NoneAuto Mechanic  (92510)Auto Mechanic  (Diesel)  (92511)Electrician  (Automobile)  (91719)Machinist  (92610)"
+    },
+    {
+        "count_title": "3",
+        "descr": "MECHANICAL ENGINEER",
+        "title": "20415",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "PSYCHOLOGIST",
+        "title": "52110",
+        "status": "200",
+        "promotionLine": "  From: None To: Administrative Psychologist (M 82980) "
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE PUBLIC HEALTH SANITA",
+        "title": "31220",
+        "status": "200",
+        "promotionLine": "  From: Public Health Sanitarian To: Administrative Public (31215)  Health Sanitarian (M 82989)   Note: In order to be eligible for promotion to a supervisory level, candidates must have 2 years of experience as a public health sanitarian, pursuant to Section 11.112 of the Compilation of the Rules and Regulations of the State of New York (NYCRR)  Title 10 (Health). "
+    },
+    {
+        "count_title": "3",
+        "descr": "SCIENTIST (WATER ECOLOGY)",
+        "title": "21538",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "INTELLIGENCE RESEARCH SPECIALI",
+        "title": "31170",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (CCRB)",
+        "title": "31165",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "PURCHASING AGENT",
+        "title": "12121",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE COMPLIA",
+        "title": "31171",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE DISCIPL",
+        "title": "31172",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "BOOKKEEPER",
+        "title": "40526",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INSTITUTIONAL AIDE",
+        "title": "81803",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "PUBLIC HEALTH NURSE",
+        "title": "51011",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Administrative Public Health Nurse  (10032)"
+    },
+    {
+        "count_title": "3",
+        "descr": "MAINTENANCE WORKER",
+        "title": "90698",
+        "status": "200",
+        "promotionLine": "  From: None To: Supervisor (91310)  "
+    },
+    {
+        "count_title": "3",
+        "descr": "*ASSOCIATE DIRECTOR HEALTH PRO",
+        "title": "95946",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "TRANSPORTATION SPECIALIST",
+        "title": "22316",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE SANITATION ENFORCEME",
+        "title": "71682",
+        "status": "200",
+        "promotionLine": "From:Sanitation EnforcementTo:Administrative Sanitation Agent  (71681) Enforcement Agent  (82982)"
+    },
+    {
+        "count_title": "3",
+        "descr": "SUPERVISOR PAINTER",
+        "title": "91873",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "SCHOOL COMPUTER TECHNOLOGY SPE",
+        "title": "13613",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "COMPUTER ASSOC (OPERATIONS)",
+        "title": "13621",
+        "status": "200",
+        "promotionLine": "  From: Computer Aide (13620)    To: Computer Specialist                           (Operations) (13622)  Computer Operations Manager (M 10074)        "
+    },
+    {
+        "count_title": "3",
+        "descr": "ELECTRICAL ENGINEER",
+        "title": "20315",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "ARCHITECT",
+        "title": "21215",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "3",
+        "descr": "NEW YORK CITY FELLOW (DCAS)",
+        "title": "10247",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "NUTRITIONIST",
+        "title": "50410",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CIVIL ENGINEER",
+        "title": "20215",
+        "status": "200",
+        "promotionLine": "From:Assistant Civil Engineer  (20210)To:Administrative Engineer (10015)"
+    },
+    {
+        "count_title": "3",
+        "descr": "SUPERVISOR OF HOUSING STOCK WO",
+        "title": "12204",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "INVESTIGATOR (EMPLOYEE DISCIPL",
+        "title": "31168",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "NURSE PRACTITIONER(DEPT HEALTH",
+        "title": "06611",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "CONFIDENTIAL INVESTIGATOR (CON",
+        "title": "06547",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ENVIRONMENTAL POLICE OFFICER",
+        "title": "70811",
+        "status": "404"
+    },
+    {
+        "count_title": "3",
+        "descr": "ASSOCIATE LABORATORY MICROBIOL",
+        "title": "21514",
+        "status": "200",
+        "promotionLine": "From:Laboratory MicrobiologistTo:Assistant Director (21513) of Laboratory  (M 21540)"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOC INSPECTOR (HOUSING CONST",
+        "title": "31695",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING DEPUTY SHERIFF",
+        "title": "30315",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CHIEF OFFICE ASSISTANT",
+        "title": "10118",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CONGREG CARE SPEC-DJJ (40 HR)",
+        "title": "52450",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PROGRAM EVALUATOR (ACS)",
+        "title": "52416",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "CITY SEASONAL AIDE",
+        "title": "91406",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "INSPECTOR (CONSUMER AND WORKER",
+        "title": "33997",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "LICENSED PRACTICAL NURSE",
+        "title": "50902",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PUBLIC HEALTH EPIDEMIOLOGIST",
+        "title": "51181",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SCHOOL LUNCH ASSISTANT",
+        "title": "54505",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE INSPECTOR (HIGHWAYS",
+        "title": "31645",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSISTANT CHIEF DETECTIVE INVE",
+        "title": "30828",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "BOROUGH PRESIDENT",
+        "title": "12994",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR OF OFFICE MACHINE O",
+        "title": "11704",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "NURSE'S AIDE (HANDICAPPED CHIL",
+        "title": "50905",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "RADIO AND TELEVISION OPERATOR",
+        "title": "9041A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "HOUSING DEVELOPMENT SPECIALIST",
+        "title": "22507",
+        "status": "200",
+        "promotionLine": "From:Housing DevelopmentTo:Associate Housing Specialist Trainee  (22506) Development Specialist  (22508)"
+    },
+    {
+        "count_title": "2",
+        "descr": "CHILD WELFARE SPECIALIST",
+        "title": "52369",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Child Welfare Specialist Supervisor  (52370)"
+    },
+    {
+        "count_title": "2",
+        "descr": "PUBLIC HEALTH ADVISER",
+        "title": "51191",
+        "status": "200",
+        "promotionLine": "From:Assistant Public HealthTo:Supervising Public Health Adviser  (51190) Adviser  (51193)"
+    },
+    {
+        "count_title": "2",
+        "descr": "QUALITY ASSURANCE SPECIALIST",
+        "title": "34171",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SR HEALTHCARE PROG PLAN ANLYST",
+        "title": "83052",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR OF NURSES (BOARD OF",
+        "title": "06165",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PAINTER",
+        "title": "91830",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SECRETARY OF COMM(7 AGENCIES)",
+        "title": "12862",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "MARINE ENGINEER (WITH LICENSE)",
+        "title": "70316",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "STAFF ANALYST",
+        "title": "12626",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CHIEF RACKETS INVESTIGATOR",
+        "title": "30836",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CUSTODIAN ENGINEER (BOE)",
+        "title": "91633",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "JUNIOR SCHOOL-NEIGHBORHOOD WOR",
+        "title": "56060",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SERVICE INSPECTOR (PROJECT SCO",
+        "title": "09708",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ADMIN ASST-CAMPAIGN FIN BOARD",
+        "title": "06603",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE SUPERVISOR OF SCHOOL",
+        "title": "60821",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "INSTITUTI0NAL TEACHER (JUVENIL",
+        "title": "60371",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SENIOR SECRETARY",
+        "title": "10220",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "EMERGENCY MEDICAL SERVICE SPEC",
+        "title": "96321",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "COMPUTER SERVICE TECHNICIAN (C",
+        "title": "13615",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "PROBATION ASSISTANT",
+        "title": "51800",
+        "status": "200",
+        "promotionLine": "From:NoneTo:NoneHowever, Probation Assistants who meet the open-competitive requirements forProbation Officer Trainee  (51801)  will be eligible to take a promotion examination to thatposition according to the needs of the service."
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE PARKING CONTROL SPEC",
+        "title": "41122",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "COMMUNITY ASSOCIATE",
+        "title": "56057",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "OCCUPATIONAL THERAPIST (DOE)",
+        "title": "51221",
+        "status": "200",
+        "promotionLine": "  From: None       To: Supervising Therapist (51241) "
+    },
+    {
+        "count_title": "2",
+        "descr": "LANDMARKS PRESERVATIONIST",
+        "title": "92237",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE PUBLIC RECORDS OFFIC",
+        "title": "60217",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "COMPUTER SPECIALIST (OPERATION",
+        "title": "13622",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "DIETARY AIDE",
+        "title": "81801",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CHAPLAIN",
+        "title": "54610",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "COLLEGE AIDE - ASSIGNMENT LEVE",
+        "title": "1020B",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SENIOR OCCUPATIONAL THERAPIST",
+        "title": "06217",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR OF MECHANICS",
+        "title": "90774",
+        "status": "200",
+        "promotionLine": "From:Supervisor of Ironwork  (92376)To:None"
+    },
+    {
+        "count_title": "2",
+        "descr": "CONTRACT REVIEWER (OFFICE OF L",
+        "title": "40563",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CHILD WELFARE SPECIALIST SUPER",
+        "title": "52370",
+        "status": "200",
+        "promotionLine": "From:Child Welfare SpecialistTo:Administrative Director of (52369) Social Services  (M 10056)"
+    },
+    {
+        "count_title": "2",
+        "descr": "SHEET METAL WORKER",
+        "title": "92340",
+        "status": "200",
+        "promotionLine": "  From: None      To: Supervisor Sheet           Metal Worker (92343)         "
+    },
+    {
+        "count_title": "2",
+        "descr": "MARINE ENGINEER (DIESEL)",
+        "title": "91534",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PLUMBER",
+        "title": "91915",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PUBLIC HEALTH ADVISER (SCHOOL",
+        "title": "51195",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Supervising Public Health Adviser  (School Health)  (51196)"
+    },
+    {
+        "count_title": "2",
+        "descr": "SENIOR SCHOOL LUNCH AIDE (COOK",
+        "title": "54512",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CITY MEDICAL EXAMINER (OCME)",
+        "title": "53859",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PARK SUPERVISOR",
+        "title": "81111",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ROOFER",
+        "title": "90735",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Supervisor Roofer (90775)"
+    },
+    {
+        "count_title": "2",
+        "descr": "PARKING CONTROL SPECIALIST TRA",
+        "title": "41117",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "FITNESS INSTRUCTOR",
+        "title": "51225",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PHYSICAL THERAPIST (DOE)",
+        "title": "51222",
+        "status": "200",
+        "promotionLine": "  From: None        To: Supervising Therapist (51241)  "
+    },
+    {
+        "count_title": "2",
+        "descr": "*COORDINATING MANAGER (HMH)",
+        "title": "95948",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ANALYST CFB AL 2&3 ONLY",
+        "title": "0660A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "EVIDENCE AND PROPERTY CONTROL",
+        "title": "71022",
+        "status": "200",
+        "promotionLine": " From:   To be determined To:   To be determined "
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE INSPECTOR (CONSUMER",
+        "title": "33998",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CONFIDENTIAL SECRETARY",
+        "title": "10204",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CONGREG CARE SPEC-ACS(35 HR WK",
+        "title": "5245A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE FRAUD INVESTIGATOR (",
+        "title": "31118",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "LABORATORY ASSOCIATE",
+        "title": "21512",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE INSPECTOR (PLUMBING)",
+        "title": "31649",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "NYCAPS PROCESS ANALYST",
+        "title": "06752",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CORRECTIONAL STANDARDS REVIEW",
+        "title": "52615",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "AREA SUPERVISOR (HIGHWAY MAINT",
+        "title": "91352",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ACCOUNTANT",
+        "title": "40510",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR PLASTERER",
+        "title": "92272",
+        "status": "200",
+        "promotionLine": "From:Plasterer  (92235)To:None"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE TAXI & LIMOUSINE INS",
+        "title": "35143",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR OF RADIO AND TELEVI",
+        "title": "90436",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ELECTRICIANS HELPER",
+        "title": "91722",
+        "status": "200",
+        "promotionLine": "  From: None To: Electrician (91717) "
+    },
+    {
+        "count_title": "2",
+        "descr": "CASE MANAGEMENT NURSE (DOC)",
+        "title": "06240",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SENIOR SCHOOL LUNCH HELPER",
+        "title": "54502",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "WATER TREATMENT PLANT OPERATOR",
+        "title": "9101A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ATTORNEY-CAMPAIGN FIN BOARD",
+        "title": "06604",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSISTANT CORPORATION COUNSEL",
+        "title": "30112",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "DENTAL HYGIENIST",
+        "title": "50102",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "HOUSING STOCK WORKER",
+        "title": "12203",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CHAUFFEUR-ATTENDANT",
+        "title": "91217",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CITY DENTIST",
+        "title": "50211",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "FISCAL AND POLICY ANALYST (BP",
+        "title": "05162",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUP TRAFFIC DEVICE MAINT L2&L3",
+        "title": "9090A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING THERAPIST",
+        "title": "51241",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "EDUCATION ANALYST",
+        "title": "12628",
+        "status": "200",
+        "promotionLine": "From:Education AnalystTo:Associate Education Trainee  (12750) Analyst  (12629)"
+    },
+    {
+        "count_title": "2",
+        "descr": "LABORATORY MICROBIOLOGIST",
+        "title": "21513",
+        "status": "200",
+        "promotionLine": "  From: Laboratory Associate (21512)             To: Associate Laboratory Microbiologist (21514)    "
+    },
+    {
+        "count_title": "2",
+        "descr": "NURSES AIDE",
+        "title": "50901",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE INVESTIGATOR (NOT PR",
+        "title": "31121",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "CHAUFFEUR-ATTENDANT (BORO PRES",
+        "title": "05234",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "TRAFFIC ENFORCEMENT AGENT L1&2",
+        "title": "71651",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Associate Traffic Enforcement Agent  (71652)"
+    },
+    {
+        "count_title": "2",
+        "descr": "DIRECTOR OF TELEVISION",
+        "title": "60666",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "OPERATIONS COMMUNICATION SPECI",
+        "title": "20271",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "MEDICOLEGAL ANALYST (LAW DEPT)",
+        "title": "06591",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "COMPUTER PROGRAMMER ANALYST",
+        "title": "13651",
+        "status": "200",
+        "promotionLine": "  From: Computer Programmer Analyst To: Computer Associate   Trainee  (13650)  (Software)  (13631) "
+    },
+    {
+        "count_title": "2",
+        "descr": "EMERGENCY PREPAREDNESS SPECIAL",
+        "title": "06766",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "WATER USE INSPECTOR",
+        "title": "34615",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "EQUAL RIGHTS COMPLIANCE SPECIA",
+        "title": "55050",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "INSPECTOR (ELECTRICAL FOR PAYR",
+        "title": "31623",
+        "status": "200",
+        "promotionLine": "  From: None To: Associate Inspector (Electrical) (31643)     "
+    },
+    {
+        "count_title": "2",
+        "descr": "PROTECTION AGENT (ACS)",
+        "title": "06771",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "*PRINCIPAL PARK SUPERVISOR",
+        "title": "81112",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "MARINE OILER",
+        "title": "91546",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "QUALITY ASSURANCE SPECIALIST",
+        "title": "34183",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CASE MANAGEMENT NURSE (POLICE",
+        "title": "50958",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PROBATION OFFICER TRAINEE",
+        "title": "51801",
+        "status": "200",
+        "promotionLine": "This is a trainee class of positions, subject to City Personnel Rule 5.8.1.  Appointment tothis position is subject to a two-year probationary period.  At the end of one year ofsatisfactory service, permanent employees in this title will advance, without furtherexamination, to Probation Officer  (51810).  The second year of probationary service willbe served in the higher title."
+    },
+    {
+        "count_title": "2",
+        "descr": "PROBATION OFFICER",
+        "title": "51810",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "PUBLIC HEALTH PREVENTATIVE MED",
+        "title": "95598",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "EDUCATION OFFICER",
+        "title": "12633",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CONSULTANT (EARLY CHILDHOOD ED",
+        "title": "51611",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Administrative Consultant (Early Childhood Education)  (M 10014)"
+    },
+    {
+        "count_title": "2",
+        "descr": "FORESTER",
+        "title": "81361",
+        "status": "200",
+        "promotionLine": "  From: None To: To be determined "
+    },
+    {
+        "count_title": "2",
+        "descr": "*WATCHPERSON",
+        "title": "81010",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE JUVENILE COUNSELOR",
+        "title": "52300",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR",
+        "title": "91310",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE CORRECTIONAL COUNSEL",
+        "title": "51274",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CITY PARKING EQUIPMENT SERVICE",
+        "title": "90642",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "STATISTICAL SECRETARY (OMB)",
+        "title": "05363",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING COMPUTER SERVICE T",
+        "title": "13616",
+        "status": "200",
+        "promotionLine": "  From: Computer Service Technician (13615) To: None "
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE INSPECTOR (ELEVATORS",
+        "title": "31644",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SPECIAL OFFICER",
+        "title": "70810",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "CHILD PROTECTIVE SPECIALIST (C",
+        "title": "52366",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Child Protective Specialist Supervisor  (52367)"
+    },
+    {
+        "count_title": "2",
+        "descr": "CITY DENTIST (PART-TIME)",
+        "title": "50212",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "APPRENTICE INSPECTOR (ELECTRIC",
+        "title": "35004",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CONTRACT SPECIALIST",
+        "title": "40561",
+        "status": "200",
+        "promotionLine": " From: None To: Associate Contract           Specialist (40562) "
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING PROBATION OFFICER",
+        "title": "51860",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING EMERGENCY MEDICAL",
+        "title": "53055",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "COMPUTER AIDE",
+        "title": "13620",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "STAFF ANALYST (DOE - OJ)",
+        "title": "1262E",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE CALL CENTER REPRESEN",
+        "title": "10271",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSISTANT CITY ASSESSOR",
+        "title": "40201",
+        "status": "200",
+        "promotionLine": "  From:  Assistant City    To: City Assessor (40202) Assessor Trainee (40200)        "
+    },
+    {
+        "count_title": "2",
+        "descr": "JUVENILE COUNSELOR",
+        "title": "52295",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "EDUCATION OFFICER (UNION)",
+        "title": "1263A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE INSPECTOR (HOUSING)",
+        "title": "31675",
+        "status": "200",
+        "promotionLine": "From:Inspector  (Housing)  (31670)To:Administrative Inspector (Housing)  (10078)"
+    },
+    {
+        "count_title": "2",
+        "descr": "PUBLIC RELATIONS ADVISER",
+        "title": "60836",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "MARINE MAINTENANCE MECHANIC",
+        "title": "92587",
+        "status": "200",
+        "promotionLine": "  From: None                                                                                            To: To be determined  "
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE HUMAN RIGHTS SPECIAL",
+        "title": "55038",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING FIRE MARSHAL (UNIF",
+        "title": "70393",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "MENTAL HEALTH WORKER",
+        "title": "51262",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "COMMUNITY COORDINATOR",
+        "title": "56058",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "OFFICE ASSISTANT",
+        "title": "10115",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SENIOR SCHOOL LUNCH AIDE",
+        "title": "54504",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SCHOOL-NEIGHBORHOOD WORKER",
+        "title": "56061",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE YOUTH DEVELOPMENT SP",
+        "title": "52288",
+        "status": "200",
+        "promotionLine": " From:     Youth Development Specialist (52288)  To:     To Be Determined   "
+    },
+    {
+        "count_title": "2",
+        "descr": "*SR CONSULTANT MANAGEMENT INFO",
+        "title": "95957",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "STATIONARY ENGINEER",
+        "title": "91644",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "QUALITY ASSURANCE SPECIALIST (",
+        "title": "34172",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ELEVATOR MECHANIC",
+        "title": "90710",
+        "status": "200",
+        "promotionLine": "From:Elevator Mechanic's HelperTo:Supervisor Elevator (90711) Mechanic  (90769)"
+    },
+    {
+        "count_title": "2",
+        "descr": "LABOR RELATIONS ANALYST",
+        "title": "13368",
+        "status": "200",
+        "promotionLine": "From:Labor Relations AnalystTo:Associate Labor Relations Trainee  (12752) Analyst  (13369)"
+    },
+    {
+        "count_title": "2",
+        "descr": "SPACE ANALYST",
+        "title": "80184",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Administrative Space Analyst  (10037)"
+    },
+    {
+        "count_title": "2",
+        "descr": "PHOTOGRAPHER AND PHOTOSTAT OPE",
+        "title": "90615",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SCHOOL LUNCH AIDE",
+        "title": "54503",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PARALEGAL AIDE",
+        "title": "30080",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR PLUMBER",
+        "title": "91972",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "DETECTIVE INVESTIGATOR",
+        "title": "30826",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SECRETARY",
+        "title": "10216",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE PUBLIC INFORMATION",
+        "title": "60816",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SPECIAL CONSULTANT (MENTAL HEA",
+        "title": "51001",
+        "status": "200",
+        "promotionLine": "From:NoneTo:None"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE OPERATIONS COMMUNICA",
+        "title": "20272",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "PUBLIC HEALTH EMERGENCY PREPAR",
+        "title": "51197",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "OFFICE MACHINE AIDE",
+        "title": "11702",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "RESEARCH AND LIAISON SPECIALIS",
+        "title": "05230",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR OF ELECTRICAL INSTA",
+        "title": "34205",
+        "status": "200",
+        "promotionLine": "  From:     None       To:   To be determined "
+    },
+    {
+        "count_title": "2",
+        "descr": "SPECIAL ASST DISTRICT ATTORNEY",
+        "title": "96001",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR CARPENTER",
+        "title": "92071",
+        "status": "200",
+        "promotionLine": "From:Carpenter  (92005)To:None"
+    },
+    {
+        "count_title": "2",
+        "descr": "HOUSING DEVELOPMENT SPECIALIST",
+        "title": "22506",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "LABORATORY HELPER",
+        "title": "82107",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "GARDENER",
+        "title": "81310",
+        "status": "200",
+        "promotionLine": "  From:  None        To: None  "
+    },
+    {
+        "count_title": "2",
+        "descr": "MANAGEMENT AUDITOR",
+        "title": "40502",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "PUBLIC HEALTH/PREVENTIVE MEDIC",
+        "title": "06801",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "TELEPHONE SERVICE TECHNICIAN",
+        "title": "92590",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CYBER SECURITY ANALYST",
+        "title": "13633",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "TRAFFIC ENFORCEMENT AGENT L3&4",
+        "title": "7165A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ADMINISTRATIVE JOB OPPORTUNITY",
+        "title": "10248",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE INSPECTOR (HOISTS /",
+        "title": "31647",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CASE - MANAGEMENT NURSE (FIRE",
+        "title": "50959",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SCHOOL LUNCH ASSISTANT COOK",
+        "title": "54513",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SANITATION ENFORCEMENT AGENT",
+        "title": "71681",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Associate Sanitation Enforcement Agent  (71682)"
+    },
+    {
+        "count_title": "2",
+        "descr": "BUDGET ANALYST (OMB)",
+        "title": "06088",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR ELECTRICIAN",
+        "title": "91769",
+        "status": "200",
+        "promotionLine": "From:Electrician  (91717)To:None"
+    },
+    {
+        "count_title": "2",
+        "descr": "HOUSING EXTERMINATOR-AL II & I",
+        "title": "9051A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SENIOR SCHOOL-NEIGHBORHOOD WOR",
+        "title": "56062",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "MOTOR VEHICLE SUPERVISOR",
+        "title": "91232",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "PROGRAM OFFICER (DEPT FOR THE",
+        "title": "51454",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "HOMEMAKER",
+        "title": "52405",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CHILD PROTECTIVE SPECIALIST SU",
+        "title": "52367",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CITY VETERINARIAN",
+        "title": "50711",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "INDUSTRIAL HYGIENIST",
+        "title": "31305",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISOR OF MOTOR TRANSPORT",
+        "title": "91279",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "ADMINISTRATIVE CHIEF",
+        "title": "10135",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CASHIER",
+        "title": "10605",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING FIRE ALARM DISPATC",
+        "title": "71060",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "AIR POLLUTION INSPECTOR",
+        "title": "31315",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Associate Air Pollution Inspector  (31316)"
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSISTANT HEAD NURSE",
+        "title": "50937",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SUPERVISING THERAPIST (COMP DO",
+        "title": "5124A",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "CITY CLINICIAN",
+        "title": "53035",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "QUALITY ASSURANCE SPECIALIST (",
+        "title": "34173",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "QUALITY ASSURANCE SPECIALIST (",
+        "title": "34177",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "SCHOOL BUSINESS MANAGER",
+        "title": "06745",
+        "status": "404"
+    },
+    {
+        "count_title": "2",
+        "descr": "FRAUD INVESTIGATOR",
+        "title": "31113",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "2",
+        "descr": "ASSOCIATE REAL PROPERTY MANAGE",
+        "title": "80122",
+        "status": "200",
+        "promotionLine": "  From:   Real Property Manager    To:   Administrative Real       (80112)                 Property Manager (10047) "
+    },
+    {
+        "count_title": "2",
+        "descr": "DEPUTY CITY SHERIFF",
+        "title": "30312",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF NYC MEDICAL RESERV",
+        "title": "95650",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*SURGEON DETAILED AS DEPUTY CH",
+        "title": "7027A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR-OFFICE OF POLICY (CIT",
+        "title": "94434",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF BUREAU OF CONSUMER",
+        "title": "60880",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FIRE PROTECTION INSPECTOR",
+        "title": "31661",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "1",
+        "descr": "LAUNCH OPERATOR/WATER POLLUTIO",
+        "title": "91573",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER FOR LAB",
+        "title": "95508",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR II SOCIAL WORK",
+        "title": "52632",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOC COMMISSIONER FOR PLANNIN",
+        "title": "95697",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMPTROLLER OF IT",
+        "title": "41098",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE PUBLIC INFORMAT",
+        "title": "10033",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (PARKS & R",
+        "title": "95861",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER",
+        "title": "95231",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CITY SECURITY AIDE",
+        "title": "90650",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNSEL (FIRE DEPARTMENT)",
+        "title": "30161",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR (POLICE PENSIO",
+        "title": "95008",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING BOOKBINDER",
+        "title": "92170",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT BUDGET ANALYST (COMP",
+        "title": "06710",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FIRE CADET",
+        "title": "70307",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEP COMMISSIONER FOR COMMUNITY",
+        "title": "06490",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO POLICE COMMISSION",
+        "title": "13217",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE MANAGER",
+        "title": "10025",
+        "status": "200",
+        "promotionLine": "From:Associate Call Center RepresentativeTo:None (10271)Principal Administrative Associate (10124)Principal Police Communications Technician  (71014)Workers' Compensation Benefits Examiner  (40482)"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DEPUTY ADMINISTRATOR",
+        "title": "95576",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "RESEARCH & LIAISON COORDINATOR",
+        "title": "09909",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "REHABILITATION SPECIALIST (HPD",
+        "title": "31680",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR (BOE RETIRE",
+        "title": "10179",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MEMBER OF THE HOUSING AUTHORIT",
+        "title": "12990",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*SR MANAGEMENT CONSULTANT HMH",
+        "title": "12652",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF COUNTERMEASURES AN",
+        "title": "95660",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING DOCKMASTER",
+        "title": "81660",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13396",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT TO THE COM",
+        "title": "13204",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PUPPETEER",
+        "title": "60414",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT RESIDENT BUILDING SU",
+        "title": "80305",
+        "status": "200",
+        "promotionLine": "From:Supervisor of HousingTo:Resident Buildings Caretakers  (80210) Superintendent  (80310)Heating Plant Technician (Housing Authority)  (91619)Maintenance Worker  (90698)Supervising Housing Groundskeeper  (81358)"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE SUPERVISOR SECRETA",
+        "title": "94422",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY GENERAL COUNSEL (OMB)",
+        "title": "30106",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LABOR RELATIONS ANALYST TRAINE",
+        "title": "12752",
+        "status": "200",
+        "promotionLine": "This is a trainee class of positions with a two year term.  Upon satisfactory completion oftwo years of service and training, employees in this class of positions will mature withoutfurther examination to the title of Labor Relations Analyst  (13368),  subject to a one yearprobationary term in the title of Labor Relations Analyst."
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMUNITY ASSOCIATE DOE",
+        "title": "5605E",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHAIRMAN",
+        "title": "12992",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SERGEANT D/A SPECIAL ASSIGNMEN",
+        "title": "7023A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "WELDER",
+        "title": "92355",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF ORGANIZED CRIME CO",
+        "title": "95034",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER (NOT FULL-TIME)",
+        "title": "1299A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF CLERK (BOARD OF ELECTION",
+        "title": "94203",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR MANAGEMENT INFORMATIO",
+        "title": "13602",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO EXECUTIVE DIRECTO",
+        "title": "12964",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASST COMMISSIONER FOR PLANNING",
+        "title": "95654",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STRATEGIC INITIATIVE SPECIALIS",
+        "title": "50938",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT IN MENTAL RE",
+        "title": "95484",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "GENERAL COUNSEL (DCAS)",
+        "title": "95627",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING DEMOLITION INSPECT",
+        "title": "32455",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSIST COMMISSIONER FOR POLICY",
+        "title": "95671",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR BAKER (CORRECTIONS)",
+        "title": "90234",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR (WATER & SEWER SYST",
+        "title": "91308",
+        "status": "200",
+        "promotionLine": "From:Construction Laborer  (90756)To:District SupervisorPipe Caulker  (91910) (Water and Sewer  Systems)  (91309)"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMUNITY SERVICE AIDE (SCSP)",
+        "title": "09749",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "Executive Assistant to the Ope",
+        "title": "13273",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF FISCAL OPERATIONS",
+        "title": "95681",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT",
+        "title": "13231",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING POLICE COMMUNICATI",
+        "title": "71013",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE INFORMATION OFFICE",
+        "title": "60809",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR THERMOSTAT REPAIR",
+        "title": "91964",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (OEM)",
+        "title": "06764",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FERRY TERMINAL SUPERVISOR",
+        "title": "81560",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR SERVICE INSPECTOR (PROJ",
+        "title": "09709",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SCHOOL PLANT MANAGER (BOE)",
+        "title": "82901",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (DDC)",
+        "title": "06706",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13385",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PORT MARINE ENGINEER (DOT)",
+        "title": "91575",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING LEGISLATIVE STENOG",
+        "title": "10222",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR COOK",
+        "title": "90235",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNSEL (NYCDC)",
+        "title": "94473",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "BUDGET ANALYST (IBO) ((MANAGER",
+        "title": "0671A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR (BOARD OF C",
+        "title": "61132",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE REPRESENTATIVE",
+        "title": "30174",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL ASST OFFICE",
+        "title": "10100",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF HISTORIC PARKS",
+        "title": "95837",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT ADMINISTRATOR (OFFIC",
+        "title": "12808",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADM PROC ANAL-NM FRM M1-3",
+        "title": "8297A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PUBLIC HEALTH EMER",
+        "title": "95674",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANCE FINANCE OFFICER(BOA",
+        "title": "94215",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE TESTS & MEASURE",
+        "title": "10064",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL ASSISTANT TO THE",
+        "title": "95236",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE EDUCATION ANALYST (U",
+        "title": "1262D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL EXAMINER (DCAS)",
+        "title": "06668",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (DCAS)",
+        "title": "95613",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF AUDITS (OFFICE OF",
+        "title": "06311",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR-OFFICE OF COMMUNICATI",
+        "title": "94437",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INSPECTOR (LOW PRESSURE BOILER",
+        "title": "31671",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING RACKETS INVESTIGAT",
+        "title": "05323",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR OF SECURITY",
+        "title": "70821",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO ASSISTANT TO PRES",
+        "title": "05107",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR, UNITED NATIONS & CON",
+        "title": "51498",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR, MAYOR'S RECEPTION CO",
+        "title": "60813",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF COMMUNITY PLANNING",
+        "title": "51495",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SR PROJECT PLANNER (MA)",
+        "title": "05482",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL INSPECTOR",
+        "title": "35265",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STRATEGIC INITIATIVE SPECIALIS",
+        "title": "50940",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF BIODETECTION RESPO",
+        "title": "95648",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR OF PROBATION (",
+        "title": "51876",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (DOT)",
+        "title": "95014",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR ADMINISRATOR (BOARD OF",
+        "title": "94201",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMUNITY PLANNING BOARD COORD",
+        "title": "22117",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF CRIMINAL JUSTICE (",
+        "title": "06816",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HEALTH CARE PROGRAM PLANNER/AN",
+        "title": "83051",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT DIRECTOR OF EDUCATIO",
+        "title": "60375",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CAPTAIN-CHIEF OF STAFF",
+        "title": "7026Z",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONSULTANT (PUBLIC HEALTH-SOCI",
+        "title": "51613",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ADVISOR TO THE CITY CL",
+        "title": "12806",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER FOR SEC",
+        "title": "95059",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXEC DIRECTOR OF GRANTS MANAGE",
+        "title": "95646",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO DIRECTOR COUNCIL",
+        "title": "94419",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "06804",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT TO DA (QUEEN",
+        "title": "05329",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MANAGER, WATER SUPPLY (JAMAICA",
+        "title": "95228",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMPOSITOR (JOB)",
+        "title": "92110",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "RECREATION SPECIALIST (DEPT OF",
+        "title": "06070",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF COMMUNITY PARTICIP",
+        "title": "95811",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR STUDENT LEGAL SPECIALIS",
+        "title": "06517",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT (DEPT M H",
+        "title": "95489",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "VOTING MACHINE TECHNICIAN (BOA",
+        "title": "94210",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PEDIATRIC NURSE ASSOCIATE",
+        "title": "95440",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT INSTITUTIONAL TEACHE",
+        "title": "60370",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE PROJECT MANAGER",
+        "title": "83008",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT TO THE COM",
+        "title": "09963",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE DIRECTOR (OMB)",
+        "title": "40142",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SCHOOL FOOD SERVICE MANAGER",
+        "title": "54483",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE COUNSEL (OLR)",
+        "title": "30098",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (BUILDI",
+        "title": "95507",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO COMMISSIONER (DEP",
+        "title": "95002",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF CLERK",
+        "title": "10138",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE DEPUTY COMMIS",
+        "title": "06697",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNSEL (OLR)",
+        "title": "30100",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CITY REGISTER",
+        "title": "95315",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "YOUTH DEVELOPMENT SPECIALIST",
+        "title": "52287",
+        "status": "200",
+        "promotionLine": " From: None     To:  Associate Youth Development Specialist          (ACS) (52288)            "
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY EXECUTIVE DIRECTOR (CIV",
+        "title": "10214",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COOPERATIVE EDUCATIONAL TRAINE",
+        "title": "10116",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MANAGER OF RADIO REPAIR OPERAT",
+        "title": "82987",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE SECRETARY (HMH)",
+        "title": "95953",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF MUNICIPAL TELECOMM",
+        "title": "95619",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT-MIDTOWN EN",
+        "title": "06004",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO DEPUTY COMMISSION",
+        "title": "95350",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STUDENT LEGAL ASSISTANT",
+        "title": "30105",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE SYSTEMS MANAGER (C",
+        "title": "94383",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER OF EMPLOYMENT",
+        "title": "94404",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PUBLIC RELATIONS CONSULTANT (O",
+        "title": "60887",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT REAL ESTATE REPAIRER",
+        "title": "82110",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHILDREN'S COUNSELOR (PER DIEM",
+        "title": "51510",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERINTENDENT (CHILDRENS INST",
+        "title": "51580",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54739",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FOOD SERVICE MANAGER",
+        "title": "05058",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE LA GUARDIA MANA",
+        "title": "82979",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "GENERAL COUNSEL (HOMELESS SVCS",
+        "title": "95659",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "WARDEN-DEPUTY WARDEN IN COMM T",
+        "title": "7048D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUMMER CREW CHIEF",
+        "title": "56098",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "RISK MANAGEMENT OFFICER (BUILD",
+        "title": "50106",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "RECREATION DIRECTOR",
+        "title": "60430",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "GENERAL COUNSEL (DGS)",
+        "title": "95753",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR AUTOMOTIVE SPECIALIST",
+        "title": "20131",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PUBLIC INFORMATION",
+        "title": "95606",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PRECINCT RECEPTIONIST (PER HOU",
+        "title": "10140",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*ASSISTANT MAINTENANCE SUPERVI",
+        "title": "80682",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PLAYGROUND ASSISTANT",
+        "title": "60405",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE PROJECT DIRECTO",
+        "title": "95566",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PERSONNEL (HA)",
+        "title": "13079",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STRATEGIC INITIATIVE SPECIALIS",
+        "title": "13402",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMPUTER OPERATIONS MANAGER",
+        "title": "1007E",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR (OPA)",
+        "title": "95026",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF MEDICAL ASSISTANCE",
+        "title": "52493",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE COMMISSIONER",
+        "title": "13200",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "TYPIST (BOARD OF ELECTIONS)",
+        "title": "94213",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT TO THE BOROU",
+        "title": "09288",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "AUDITOR GENERAL (DOE)",
+        "title": "40872",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INVESTIGATIVE MANAGER (CCRB)",
+        "title": "82975",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PUPPETRY",
+        "title": "60416",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR (FISA)",
+        "title": "94468",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY ASSISTANT COMMISSIONER",
+        "title": "95615",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF INFORMATION TECHNOLOGY O",
+        "title": "13606",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LAW SECRETARY",
+        "title": "12830",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR GENERAL DEPUTY MANAGER",
+        "title": "95009",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER OF TRANSPORTATION",
+        "title": "94361",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MARINE ELECTRONICS TECHNICIAN",
+        "title": "91576",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (PVB-DE",
+        "title": "95932",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY (OFFICE OF THE MAYOR",
+        "title": "05384",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASST COMMISSIONER (REAL PROPER",
+        "title": "95328",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT CORPORATION COUNSEL",
+        "title": "3011B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (GENERAL S",
+        "title": "95806",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER(ADMINIS",
+        "title": "05487",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF CARETAKER (HA)",
+        "title": "81715",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF LEASED HOUSING (HA",
+        "title": "80299",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER OF YOUTH SERVICES",
+        "title": "94457",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASST COMMISSIONER (ENV HS)-HMH",
+        "title": "95439",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INSPECTOR (HOUSING)",
+        "title": "31670",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF COMMUNICATIONS",
+        "title": "70266",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF INVESTIGATOR (RICHMOND C",
+        "title": "30824",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "RESEARCH ASSISTANT",
+        "title": "60910",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONSUMER ADVOCATE",
+        "title": "30164",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL INVESTIGATOR",
+        "title": "31130",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY CHANCELLOR FINANCIAL AF",
+        "title": "40547",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HEALTH OFFICER IN TRAINING",
+        "title": "52701",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY OF THE BOARD OF EDUC",
+        "title": "12856",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE HORTICULTURIST",
+        "title": "10071",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PROJECT PLANNER (CRIMINAL JUST",
+        "title": "51794",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "BRIDGE PAINTER",
+        "title": "91805",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR",
+        "title": "10173",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF COMMUNITY PLANNING",
+        "title": "5149A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE HUMAN RESOURC",
+        "title": "95690",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE COUNSEL (CITY COUN",
+        "title": "94451",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*ASSISTANT SYSTEMS ANALYST (FI",
+        "title": "12646",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "TRAFFIC DEVICE MAINTAINER",
+        "title": "90910",
+        "status": "200",
+        "promotionLine": "  From:  None     To: Supervisor of Traffic Device  Maintainers (90904) "
+    },
+    {
+        "count_title": "1",
+        "descr": "CUSTODIAL SUPERVISOR",
+        "title": "80510",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR (DIVISION OF DESIGN A",
+        "title": "91400",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT EXECUTIVE DIRECTOR (",
+        "title": "10174",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR SCHOOL LNCH AIDE",
+        "title": "5450D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL INVESTIGATOR (COMPUTER",
+        "title": "31128",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE ARCHITECT",
+        "title": "10004",
+        "status": "200",
+        "promotionLine": "  From:   Architect (21215)       To:   None # Plan Examiner (Buildings) (22410)  # However, persons in the title of Plan Examiner (Buildings) must possess a valid New York State Registration as an Architect to be eligible for promotion to Administrative Architect. "
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR ON COMMISSI",
+        "title": "06818",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ADVISOR TO THE DIRECTO",
+        "title": "94456",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (PROGRA",
+        "title": "12927",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNSEL (DEPT OF MENTAL HEALTH",
+        "title": "95487",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER FOR CITY P",
+        "title": "95635",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER OF IT",
+        "title": "95614",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PRINCIPAL ACCOUNTANT INVESTIGA",
+        "title": "05338",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR OF MOTOR EQUIP",
+        "title": "95251",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE COOK (MAYOR)",
+        "title": "09989",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CAPTAIN: CHIEF OF TRANSPORTATI",
+        "title": "7026U",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COOK",
+        "title": "90210",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EDUCATION ANALYST TRAINEE",
+        "title": "12750",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INSPECTOR (HOUSING CONSTRUCTIO",
+        "title": "31690",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EQUAL EMPLOYMENT OPPORTUNITY O",
+        "title": "60224",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (NEIGHB",
+        "title": "95558",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER OF LABO",
+        "title": "13365",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FIELD SUPERVISOR (SUMMER YOUTH",
+        "title": "56099",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "JUNIOR ASSISTANT DA",
+        "title": "30201",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE PUBLIC HEALTH S",
+        "title": "8298D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR OF PUBLIC I",
+        "title": "94489",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE PRESIDENT (BR",
+        "title": "05106",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "BOOKBINDER",
+        "title": "92105",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "OIL BURNER SPECIALIST",
+        "title": "91237",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR OF MATERIAL",
+        "title": "06782",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CAPTAIN DETAILED AS CHIEF OF P",
+        "title": "7026K",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*SENIOR SYSTEMS ANALYST",
+        "title": "12648",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY GENERAL COUNSEL (HOMELE",
+        "title": "95657",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE FINANCIAL STENOGRA",
+        "title": "10219",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EMERGENCY MEDICAL SPECIALIST T",
+        "title": "53052",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PHYSICIAN",
+        "title": "53010",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE LIAISON-ALBANY (CI",
+        "title": "94385",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE DEPARTMENT (F",
+        "title": "12859",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT TO MEMBER OF",
+        "title": "13289",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMUNICATION ASSISTANT (CITY",
+        "title": "94440",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASST TO THE NYC COMM",
+        "title": "13272",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT ACCOUNTANT",
+        "title": "40505",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CAPTAIN DETAILED AS ASSISTANT",
+        "title": "7026G",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY ASSISTANT COMMISSIONER",
+        "title": "95699",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SERVICE AIDE",
+        "title": "98701",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INTELLIGENCE RESEARCH SPECIALI",
+        "title": "3117C",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE DEPUTY REGISTER",
+        "title": "82988",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (FINANCE)",
+        "title": "95300",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF THE MAYORÃ¢â‚¬â„¢S OFFICE",
+        "title": "94588",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EMERGENCY MEDICAL SPECIALIST-E",
+        "title": "53053",
+        "status": "200",
+        "promotionLine": "From:Emergency Medical SpecialistTo:Emergency Medical Trainee  (53052) Specialist - Paramedic (53054)Supervising Emergency Medical Service Specialist (53055)"
+    },
+    {
+        "count_title": "1",
+        "descr": "CALENDAR ASSISTANT",
+        "title": "13252",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR (NYC DISTRI",
+        "title": "94470",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE PRESIDENT (BK",
+        "title": "09959",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE DEPUTY BORO P",
+        "title": "12885",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR BOROUGH IMPROVEMENT B",
+        "title": "22119",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DEPUTY COMMISSIONER",
+        "title": "95594",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PROGRAM RESEARCH ANALYST TO TH",
+        "title": "94510",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONSULTANT PUBLIC HEALTH NURSE",
+        "title": "51017",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE STAFF ANALYST (",
+        "title": "1002A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR (FERRIES)",
+        "title": "95981",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*DIR OF FISCAL AFFAIRS (HMH)",
+        "title": "95949",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "BLACKSMITH'S HELPER",
+        "title": "92306",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE REHABILITATION SPECI",
+        "title": "31685",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13377",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STENOGRAPHER TO COUNCIL (CITY",
+        "title": "10241",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER",
+        "title": "12935",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STRATEGIC INITIATIVE SPECIALIS",
+        "title": "13400",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "GENERAL COUNSEL (OMB)",
+        "title": "30107",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CAPTAIN DETAILED AS CHIEF OF L",
+        "title": "7026M",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE CHAIRMAN",
+        "title": "13206",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "JR PHNURSE (SCH HLTH)>20 HR PT",
+        "title": "5100B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASBESTOS HAZARD INVESTIGATOR",
+        "title": "31312",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "RESEARCH LIAISON ADN GOVERNMEN",
+        "title": "05145",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER FOR MAN",
+        "title": "95798",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY CITY CLERK",
+        "title": "12930",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT TO THE COM",
+        "title": "95700",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (ETHNIC",
+        "title": "55083",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE SECRETARY",
+        "title": "12820",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASS COMMISSIONER DESIGN AND CO",
+        "title": "95777",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF  EXERCISES AND TRA",
+        "title": "95673",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNSEL (DEPARTMENT OF HEALTH)",
+        "title": "95444",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER OF ENVIRONMENTAL",
+        "title": "94358",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FURNITURE MAINTAINER",
+        "title": "92705",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PODIATRIST (PART TIME)",
+        "title": "53011",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PHOTOGRAPHIC SERVI",
+        "title": "82802",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "Deputy Commissioner (CEC)",
+        "title": "06825",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO DEPUTY COMPTROLLE",
+        "title": "13211",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PLAYGROUND ASSOCIATE",
+        "title": "06664",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF EQUIPMENT (BOARD O",
+        "title": "94208",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY CHIEF(FIRE)",
+        "title": "70382",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INTERPRETER/TRANSLATOR",
+        "title": "31048",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (SUBSTA",
+        "title": "95443",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HUMAN RESOURCES TECHNICIAN",
+        "title": "56006",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HOUSING CONSULTANT",
+        "title": "22102",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE FIRST DEPUTY",
+        "title": "12962",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF MARINE ENGINEER (DC)",
+        "title": "91524",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "URBAN ARCHEOLOGIST",
+        "title": "92248",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT TO THE COM",
+        "title": "95147",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE COMMISSIONER FOR DET",
+        "title": "95058",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "GENERAL COUNSEL (DDC)",
+        "title": "95758",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ADMINISTRATOR OF GRA",
+        "title": "05395",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY ASST COMMISSIONER FOR P",
+        "title": "95803",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT",
+        "title": "10103",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE DEPUTY MAYOR",
+        "title": "05278",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE TRAFFIC ENFORCE",
+        "title": "10042",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DISTRICT SUPERVISOR",
+        "title": "91325",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE DEPUTY COMMIS",
+        "title": "95999",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LIAISON OFFICER TO THE UNITED",
+        "title": "51499",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOC WATER USE INSPECTOR-MGRL",
+        "title": "3462A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNSEL TO THE BOARD OF ESTIMA",
+        "title": "30162",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL INVESTIGATOR (OFF",
+        "title": "31133",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MONITOR",
+        "title": "12702",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "RACKETS INVESTIGATOR",
+        "title": "30830",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONSTRUCTION PROJECT MANAGER I",
+        "title": "34201",
+        "status": "200",
+        "promotionLine": "This is a trainee class of positions with a three year probationary period.  At the end oftwo years of satisfactory probationary service and training, employees in this class ofpositions will mature without further examination to Level  I  of the title ConstructionProject Manager, subject to a one year probationary term in the title of ConstructionProject Manager.  However, if a trainee has one year of construction management orinspection experience, he may be advanced to Construction Project Manager Level  I  atthe end of one year, subject to a one year probationary term in the title of ConstructionProject Manager.From:NoneTo:Construction Project Manager  (34202)"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT AND COUNSE",
+        "title": "94499",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF FINANCING POLICY C",
+        "title": "40143",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY GENERAL COUNSEL (HRA)",
+        "title": "95680",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CITY SEASONAL AIDE (DOS ONLY)",
+        "title": "9140A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE FIRST DEPUTY",
+        "title": "95035",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SAFETY SPECIALIST",
+        "title": "31310",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF INFORMATION TECHNOLOGY O",
+        "title": "13607",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE CHAIRMAN (TAX",
+        "title": "12871",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER FOR ADMINI",
+        "title": "95455",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE HOUSING DEVELOPMENT",
+        "title": "22508",
+        "status": "200",
+        "promotionLine": "From:Housing DevelopmentTo:Administrative Housing Specialist  (22507) Development Specialist  (83006)"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER OF DEPT OF INFO T",
+        "title": "94513",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE INSPECTOR (LOW PRESS",
+        "title": "31676",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE GRAPHIC ARTIST",
+        "title": "10003",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE BLASTING INSPEC",
+        "title": "10054",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "TELECOMMUNICATION MANAGER",
+        "title": "82984",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT RETIREMENT BENEFITS",
+        "title": "40491",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PLANNING (CDA)",
+        "title": "95693",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE SUPPORT SERVICE CO",
+        "title": "94417",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR SCHOOL LUNCH AIDE (COOK",
+        "title": "5451A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE MANAGER (BOARD",
+        "title": "94372",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT TO THE DEPUT",
+        "title": "95725",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF CRIME STRATEGIES",
+        "title": "30227",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF LITIGATION BUREAU",
+        "title": "95318",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "AREA MANAGER OF SCHOOL MAINTEN",
+        "title": "91697",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PROGRAM PLANNING (",
+        "title": "80291",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE ACCOUNTANT (NON",
+        "title": "1000B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT ARCHITECT",
+        "title": "21210",
+        "status": "200",
+        "promotionLine": "From:None.To:Architect #  (21215)#  Possession of a valid New York State Registration as an Architect is    required for promotion to Architect."
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE DEPUTY MAYOR",
+        "title": "13259",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (ADM SE",
+        "title": "95321",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE ADMINISTRATIVE CLE",
+        "title": "94421",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT DEPUTY ADMINISTRATOR",
+        "title": "95679",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "GASOLINE ROLLER ENGINEER",
+        "title": "91616",
+        "status": "200",
+        "promotionLine": "  From:     None       To: None  "
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE EXECUTIVE DIR",
+        "title": "06463",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE SPECIAL COMMI",
+        "title": "06612",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EMERGENCY MEDICAL SERVICE CADE",
+        "title": "53056",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE ARTS PROGRAMS SPECIA",
+        "title": "60496",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "AGENCY CHIEF CONTRACTING OFFIC",
+        "title": "82950",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE DIRECTOR OF F",
+        "title": "12834",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HEALTH SERVICES MANAGER",
+        "title": "10069",
+        "status": "200",
+        "promotionLine": "      From:  To be determined.  To:  None    "
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13379",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERINTENDENT OF WATER AND SE",
+        "title": "10081",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE ASSISTANT TO TH",
+        "title": "13201",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ENVIRONMENTAL HEALTH TECHNICIA",
+        "title": "51380",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54747",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOC ADM FOR PURCHASING MATER",
+        "title": "95668",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FAMILY AUXILIARY",
+        "title": "82206",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING PUBLIC HEALTH ADVI",
+        "title": "51193",
+        "status": "200",
+        "promotionLine": "From:Public Health Adviser  (51191)To:None"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXEC ASST TO THE DEPUTY COMMIS",
+        "title": "95607",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECY TO THE DIRECTOR OF COLLEC",
+        "title": "12833",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (YOUTH SER",
+        "title": "12939",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE EXECUTIVE DIR",
+        "title": "12797",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT DISTRICT MANAGER (CO",
+        "title": "56087",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR ROOFER",
+        "title": "90775",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE  PROGRAM OFFICE",
+        "title": "10084",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF OF STAFF (DOT)",
+        "title": "95021",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF FIELD OPERATIONS (",
+        "title": "95600",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ADVISOR TO THE MAYOR",
+        "title": "95409",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF CONSULTANT (RADIATION CO",
+        "title": "22075",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF CITY MEDICAL EXAMINER",
+        "title": "95450",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF HUD ACQUIRED PROPE",
+        "title": "80295",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE STAFF ANALYST (",
+        "title": "1002D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE SANITATION ENFO",
+        "title": "82982",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR GLAZIER",
+        "title": "90778",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT DIRECTOR OF TECHNICA",
+        "title": "20221",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13398",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT SECRETARY TO THE COM",
+        "title": "95291",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MARINER",
+        "title": "91501",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASST PROJECT PLANNER (OFFICE O",
+        "title": "06022",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INTELLIGENCE RESEARCH SPECIALI",
+        "title": "3117B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (TRAFFI",
+        "title": "95917",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE PRESIDENT",
+        "title": "12882",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE EXECUTIVE DIRECTOR (",
+        "title": "06780",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CAPTAIN DETAILED CHIEF OF RISK",
+        "title": "7026I",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MANAGER OF PARK LICENSE AGREEM",
+        "title": "95829",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FINGERPRINT TECHNICIAN TRAINEE",
+        "title": "71105",
+        "status": "200",
+        "promotionLine": "There are no direct lines of promotion.  This is a trainee class of positions with aprobationary period of twenty-one months.  Upon satisfactory completion of nine monthsof training and permanent service, employees in this class of positions will advance,without further examination, to the title of Associate Fingerprint Technician  -Assignment Level  I.  The last twelve months of the probationary period will be served asan Associate Fingerprint Technician.  The probationary period may be extended inaccordance with the Personnel Rules and Regulations of the City of New York.Employment may be terminated at any time during the probationary period."
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF LEGISLATIVE OVERSI",
+        "title": "94377",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "POLICE OFFICER (RECURRING NIGH",
+        "title": "70210",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54746",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HOUSEPARENT",
+        "title": "52437",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF OF STAFF (PD)",
+        "title": "95030",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF COMMUNITY RELATION",
+        "title": "5149B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE COMPTROLLER",
+        "title": "12899",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "POLICE OFFICER, DET. SPECIALIS",
+        "title": "7021D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE INTERDIVISIONAL LI",
+        "title": "94448",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF EQUAL OPPORTUNITY",
+        "title": "80289",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "Cooperative EducationTrainee E",
+        "title": "20104",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER FOR DEP PO",
+        "title": "95203",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE INSPECTOR (HOUS",
+        "title": "10078",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*PROCUREMENT ANALYST LEVEL III",
+        "title": "1215A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE PLANNING COORDINAT",
+        "title": "94418",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SCHOOL LUNCH HELPER",
+        "title": "54501",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CORRECTIONAL COUNSELOR",
+        "title": "51273",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54745",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COOPERATIVE EDUCATION TRAINEE",
+        "title": "10119",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PRINCIPAL PLANNING CONSULTANT",
+        "title": "22138",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT TO COMMUNI",
+        "title": "13251",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR OF HEADSTART P",
+        "title": "95665",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR SHEET METAL WORKER",
+        "title": "92343",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE CORPORATION C",
+        "title": "12879",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MARINE ELECTRONICS TECHNICIAN",
+        "title": "91574",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR OF PROBATION",
+        "title": "51875",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF BUILDING MANAGEMEN",
+        "title": "05357",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF INTERGOVERNMENTAL",
+        "title": "05026",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MARINE ENGINEER",
+        "title": "91542",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF OF STAFF (CDA)",
+        "title": "95692",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF RESEARCH & POLICY",
+        "title": "60932",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOCIATE LABOR RELATIONS ANAL",
+        "title": "13369",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (EQUAL",
+        "title": "12932",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISIONER (M&C HEA",
+        "title": "95449",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHAUFFEUR (BUILDINGS)",
+        "title": "91242",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CRIMINALIST DIRECTOR OF LABORA",
+        "title": "2184A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FIRE MARSHAL (UNIFORMED)",
+        "title": "70392",
+        "status": "200",
+        "promotionLine": "  From:  None     To: Supervising Fire Marshal (35143)  "
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PURCHASE (DCAS)",
+        "title": "95637",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY ADMINSTRATOR/COMSNR-DOS",
+        "title": "95230",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMPUTER SYSTEM MANAGER (BOARD",
+        "title": "94225",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY CHIEF OF OPERATIONS (PA",
+        "title": "95841",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF ELDER ABUSE PROG",
+        "title": "30224",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT DIRECTOR OF TOXICOLO",
+        "title": "95498",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CUSTODIAN (MANAGERIAL ASSIGNME",
+        "title": "8060A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASST SUPERINTENDT WELF SHELT (",
+        "title": "52275",
+        "status": "200",
+        "promotionLine": "  From:   None To:   Superintendent of Adult     Institutions (52279)   "
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT ADMINISTRATOR OF PUB",
+        "title": "95678",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE ANALYST",
+        "title": "12611",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR OF IRONWORK",
+        "title": "92376",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PORT MARINE ENGINEER (DEP)",
+        "title": "91577",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR MANAGEMENT CONSULTANT (",
+        "title": "12645",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COORDINATOR, TENANT PATROL (HA",
+        "title": "70001",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE TAX AUDITOR (NO",
+        "title": "1004C",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF CONSUMER INFORMATI",
+        "title": "60873",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE PRESIDENT (PM",
+        "title": "1321A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "AUDITOR GENERAL (OFFICE OF THE",
+        "title": "40842",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CALL CENTER REPRESENTATIVE",
+        "title": "10260",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "1",
+        "descr": "ASST COMMISSIONER (PROFESSIONA",
+        "title": "95442",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR III SOCIAL WORK",
+        "title": "52633",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "IT AUTOMATION AND MONITORING E",
+        "title": "95712",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ESTIMATOR (ELECTRICAL)",
+        "title": "20121",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF INDEPENDENT BUDGET",
+        "title": "94519",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HOUSING ASSISTANT (BILINGUAL)",
+        "title": "80202",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER OF MENTAL HEALTH",
+        "title": "94359",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CITY CUSTODIAL ASSISTANT",
+        "title": "90644",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIR OF ADMINISTRATION, WORKER'",
+        "title": "05492",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSOC SUPVR OF SCHL SEC (MGRL)",
+        "title": "6082A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54740",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DOCKBUILDER",
+        "title": "92010",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF OF THE HOUSING BUREAU",
+        "title": "7026R",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASST TO THE COMMISSI",
+        "title": "95215",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR, SPECIAL PR",
+        "title": "94582",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING BLASTING INSPECTOR",
+        "title": "31840",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SANITATION COMPLIANCE AGENT",
+        "title": "71685",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR I SOCIAL WORK",
+        "title": "52631",
+        "status": "200",
+        "promotionLine": "From:Social Worker  (52613)To:Supervisor  II  (Social Work)  (52632)"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY OF COMMISSIONER (CDC",
+        "title": "06449",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISING PUBLIC HEALTH ADVI",
+        "title": "51196",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MEMBER OF THE ENVIRONMENTAL CO",
+        "title": "94350",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (DCAS)",
+        "title": "95633",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE HORTICULTURIST",
+        "title": "1007C",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13378",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ENGINEERING WORK STUDY TRAINEE",
+        "title": "20100",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE INVESTIGATOR (CITY",
+        "title": "94378",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PROJECT COORDINATOR(CRIMINAL J",
+        "title": "51792",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (SPECIA",
+        "title": "95562",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE COMMISSIONER",
+        "title": "12913",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CASEWORKER TRAINEE",
+        "title": "52301",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PUBLIC ADMINISTRATOR",
+        "title": "94354",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE QUALITY ASSURAN",
+        "title": "1008B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF ACCOUNTABILITY OFFICER (",
+        "title": "95069",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR OF SPECIAL",
+        "title": "95144",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INSTITUTIONAL GARMENT WORKER",
+        "title": "90112",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF MOTOR EQUIPMENT MA",
+        "title": "9525B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HEATING PLANT TECHNICIAN (HA)",
+        "title": "91619",
+        "status": "200",
+        "promotionLine": "  From: None To: Assistant Resident Buildings  Superintendent (80305)   "
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR III (SOCIAL SERVICE",
+        "title": "52313",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (ALTERN",
+        "title": "95549",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF OF STAFF (DCAS)",
+        "title": "95628",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT TO THE FIRST",
+        "title": "95630",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "BUDGET ANALYST (OMB)-MANAGERIA",
+        "title": "0608A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "MEDICAL DIRECTOR (SANITATION)",
+        "title": "95240",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "OFFICE ASSISTANT (PUBLIC ADVOC",
+        "title": "94507",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TRANSIT MANAGEMENT A",
+        "title": "13117",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT TO THE CHANC",
+        "title": "13304",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STRATEGIC INITIATIVE SPECIALIS",
+        "title": "13386",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (COMMUN",
+        "title": "95552",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF SOCIAL & COMMUNITY",
+        "title": "60585",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PRIVATE SECRETARY",
+        "title": "10202",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF NURSING SERVICES",
+        "title": "95435",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR, NYC MAYOR'S OFFICE F",
+        "title": "60844",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGAL COORDINATOR",
+        "title": "30081",
+        "status": "200",
+        "promotionLine": "  From:   None      To: Administrative Manager (M10025)                                     "
+    },
+    {
+        "count_title": "1",
+        "descr": "SR ADDICTION SPEC METHADONE",
+        "title": "56072",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMIN INSPECTOR (ELECTRICAL)NM",
+        "title": "1007B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL ASSISTANT TO THE",
+        "title": "13229",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHAIR, PROCUREMENT POLICY BOAR",
+        "title": "94490",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "GLAZIER",
+        "title": "90716",
+        "status": "200",
+        "promotionLine": "From:NoneTo:Supervisor Glazier  (90778)"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT SUPERVISING CHIEF SU",
+        "title": "5305D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13393",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT TO THE COMMI",
+        "title": "95567",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (CDA)",
+        "title": "95578",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE FINANCE SECRETARY",
+        "title": "94431",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE LAW JUDGE",
+        "title": "30181",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXEC ASST TO THE DEPUTY COM FO",
+        "title": "95625",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LOCKSMITH",
+        "title": "90723",
+        "status": "200",
+        "promotionLine": "  From: None To: Supervisor Locksmith (90763) "
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR OF CHILD CARE",
+        "title": "52315",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT EXECUTIVE DIRECTOR (",
+        "title": "10185",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT LEGISLATIVE INFORMAT",
+        "title": "94063",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE MANAGEMENT AUDI",
+        "title": "1001C",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SERVICE INSPECTOR (BOARD OF ED",
+        "title": "33761",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY OF THE DEPARTMENT (D",
+        "title": "95641",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE TECHNICAL SECRETAR",
+        "title": "94445",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADM INSPECTOR (BUILDINGS) NM",
+        "title": "1007A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMPUTER PROG ANALYST TRAINEE",
+        "title": "13650",
+        "status": "200",
+        "promotionLine": "This is a trainee class of positions with a twelve  (12)  month term for all employees.Trainees who satisfactorily complete the required trainee term in this class of positionswill receive permanent appointment to the title of Computer Programer Analyst  (13651)."
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE PUBLIC HEALTH S",
+        "title": "82989",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DISTRICTING COMMISSION ADMINIS",
+        "title": "94479",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "AUTO MECHANIC (DIESEL)",
+        "title": "92511",
+        "status": "200",
+        "promotionLine": "  From:     Machinist™s Helper (92611) To: Supervisor of Mechanics                 Automotive Service Worker                        (92508)  (Mechanical Equipment) (92575)  "
+    },
+    {
+        "count_title": "1",
+        "descr": "HEALTH AIDE",
+        "title": "51102",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COMMISSIONER (TAX APPEALS TRIB",
+        "title": "94492",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STUDENT AIDE",
+        "title": "10101",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INSURANCE ADVISOR",
+        "title": "40235",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADM ENGINEER (NON MGRL)",
+        "title": "1001A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY ASSISTANT CHIEF OF DEPA",
+        "title": "7038A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNCIL MEMBER AIDE",
+        "title": "94074",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "STAFF ASSISTANT (OFFICE OF THE",
+        "title": "06393",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PRINCIPAL PLANNING CONSULTANT",
+        "title": "22137",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR FOR EQUAL EMPLOYMENT",
+        "title": "95047",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF NOISE ABATEMENT",
+        "title": "95272",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FIREFIGHTER",
+        "title": "70310",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (HEALTH)",
+        "title": "95423",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT DIRECTOR OF INTERGRO",
+        "title": "55075",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (DOE)",
+        "title": "95580",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EDUCATION ANALYST (UNION)",
+        "title": "1262C",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (RELOCA",
+        "title": "95559",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF INTERNAL AFFAIRS -",
+        "title": "95033",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (DEP)",
+        "title": "95277",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT DIRECTOR OF TOXICOLO",
+        "title": "95499",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF INFORMATION AND RE",
+        "title": "60900",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "BIO-MEDICAL EQUIPMENT TECHNICI",
+        "title": "21562",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LIEUTENANT D/A COMMANDER OF DE",
+        "title": "7026B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LIEUTENANT D/A DIR LEGAL BUREA",
+        "title": "7026C",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PSYCHOMETRICIAN",
+        "title": "12751",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT CIVIL ENGINEER",
+        "title": "20210",
+        "status": "200",
+        "promotionLine": "  From:  Civil Engineering Intern    To: Civil Engineer # (20202)        (20215)  #  Possession of a valid New York State Professional Engineer's license is     required for promotion to Civil Engineer.  "
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY EXECUTIVE DIRECTOR (BOA",
+        "title": "94224",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT (BOE)",
+        "title": "13288",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR CITIZEN AIDE (PART TIME",
+        "title": "52402",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (MANAGE",
+        "title": "95326",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "COUNSEL (CITY PLANNING)",
+        "title": "30128",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE INSPECTOR (BUILDINGS",
+        "title": "95511",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF RACE EQUITY STRATE",
+        "title": "95072",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54737",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "LEGISLATIVE MESSENGER (CITY CO",
+        "title": "94424",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "INTERPRETER (SPANISH)",
+        "title": "31013",
+        "status": "200",
+        "promotionLine": "From:NoneTo:To be determined"
+    },
+    {
+        "count_title": "1",
+        "descr": "STRATEGIC INITIATIVE SPECIALIS",
+        "title": "13381",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT (TAX COMMISS",
+        "title": "13225",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "OFFICE MANAGER (PUBLIC ADVOCAT",
+        "title": "94508",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "*SCHOOL LUNCH HELPER",
+        "title": "5450A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY (MANAGERIAL)",
+        "title": "1285A",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CAPTAIN DETAILED AS CHIEF OF D",
+        "title": "7026H",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR OF SPECIAL",
+        "title": "51872",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF ADMINISTRATIVE LAW JUDGE",
+        "title": "30189",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY DIRECTOR (AVIATION)-DOT",
+        "title": "95979",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ELECTION WORKER (PART-TIME)-BD",
+        "title": "9POLL",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PSYCHIATRY",
+        "title": "95485",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF ACTUARY",
+        "title": "40735",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PARKING CONTROL SPECIALIST",
+        "title": "41120",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF CYBER CRIMES FOREN",
+        "title": "30226",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHIEF OF STAFF (DDC)",
+        "title": "95046",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SPECIAL ASSISTANT (PUBLIC ADVO",
+        "title": "94512",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT COMMISSIONER (DBS)",
+        "title": "95146",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "PRINCIPAL NUTRITION CONSULTANT",
+        "title": "50416",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY CHIEF CITY MEDICAL EXAM",
+        "title": "95451",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT TO THE DIR",
+        "title": "94401",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HEALTH SERVICES MANAGER NON MA",
+        "title": "1006D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL AGENCY INVESTIGAT",
+        "title": "31142",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR (SCHOOL BUI",
+        "title": "91401",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "FIRST DEPUTY COMMISSIONER (DOT",
+        "title": "95013",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "REGISTERED NURSE (PER SESSION)",
+        "title": "51003",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54748",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (TRANSPORT",
+        "title": "95903",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE DIRECTOR OF LAB",
+        "title": "10055",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASST DIRECTOR OF INTERGOVERMEN",
+        "title": "06558",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT HOUSING MANAGER (HA)",
+        "title": "80205",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HIGHWAYS AND SEWERS INSPECTOR",
+        "title": "31626",
+        "status": "200",
+        "promotionLine": ""
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE PROGRAM SPECIALIST (",
+        "title": "13388",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUMMER GRADUATE INTERN",
+        "title": "10232",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL STRATEGY PLANNER",
+        "title": "54736",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF COMMUNITY RELATION",
+        "title": "51496",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF PUBLIC HEALTH EMER",
+        "title": "95662",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CITY CLERK & CLERK OF COUNCIL",
+        "title": "12988",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT ENVIRONMENTAL ENGINE",
+        "title": "20617",
+        "status": "200",
+        "promotionLine": "  From:  None.                                        To: # Environmental Engineer        (20618)   Environmental Engineering Intern (20616)    (By maturation pursuant to Rule 5.8.1 of    the personnel Rules and Regulations)    # Possession of a valid New York State Professional Engineer License is       required for promotion to Environmental Engineer. "
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE ASSISTANT TO THE CHA",
+        "title": "13293",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "HELICOPTER PILOT (DEP)",
+        "title": "91244",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASSISTANT TO THE PUBLIC ADVOCA",
+        "title": "94497",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (ACD-DOSS)",
+        "title": "95804",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE CHIEF ACTUARY",
+        "title": "06770",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CHAIR (HA)",
+        "title": "94488",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR CONSULTANT (PUBLIC HEAL",
+        "title": "51638",
+        "status": "200",
+        "promotionLine": "  From: Consultant          To: None (Public Health Social               Work) (51613)          "
+    },
+    {
+        "count_title": "1",
+        "descr": "EXECUTIVE DIRECTOR OF FLEET",
+        "title": "9503B",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR OF ADVOCACY (SSC-DOSS",
+        "title": "95810",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "CONFIDENTIAL OPERATIONS SPECIA",
+        "title": "31151",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR (DIVISION OF MAINTENA",
+        "title": "91399",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DIRECTOR (PLANT OPERATIONS SER",
+        "title": "05103",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "DEPUTY COMMISSIONER (DEP)",
+        "title": "95275",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR BRICKLAYER",
+        "title": "92271",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SECRETARY TO THE DEPUTY COMMIS",
+        "title": "95642",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ASPHALT PLANT MANAGER (DOT)",
+        "title": "91578",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SUPERVISOR STEAMFITTER",
+        "title": "91971",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "BAKER",
+        "title": "90211",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "ADMINISTRATIVE REAL PROPERTY M",
+        "title": "1004D",
+        "status": "404"
+    },
+    {
+        "count_title": "1",
+        "descr": "SENIOR SCHOOL LUNCH HELPER",
+        "title": "5450B",
+        "status": "404"
+    }
+]
