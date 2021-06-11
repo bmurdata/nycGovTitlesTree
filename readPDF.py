@@ -27,6 +27,7 @@ def readPDF(codeTitle:str()):
 
             # print(pageObj.extractText().split(" Promotion")[1].replace('\n ',''))#replace(' ','|'))
         except:
+            promoLine="Failed"
             print(ofile)
         # closing the pdf file object
         pdfFileObj.close()
@@ -41,6 +42,16 @@ def readPDF(codeTitle:str()):
 
 with open("Data/data.json") as js:
         df= json.load(js)
+fdf=list()
+for item in df:
+    if item["status"]== "404":
+        continue
+    else:
+        fdf.append(item)
+
+print(len(fdf))
+
+df=fdf
 
 for ind,item in enumerate(df):
         if item["status"]=="200":
@@ -49,5 +60,5 @@ for ind,item in enumerate(df):
             # print(myStr)
             df[ind]["promotionLine"]=myStr
 
-with open('Data/data_promotion.json', 'w', encoding='utf-8') as f:
+with open('Data/data_promotion_Only.json', 'w', encoding='utf-8') as f:
         json.dump(df, f, ensure_ascii=False, indent=4)
